@@ -5,3 +5,4 @@ try well very well
 crypto scam
 uni one kvadro bober
 adress contract
+blue boy
