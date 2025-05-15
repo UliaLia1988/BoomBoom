@@ -6,3 +6,4 @@ crypto scam
 uni one kvadro bober
 adress contract
 blue boy
+stop sigaret
