@@ -10,3 +10,4 @@ stop sigaret
 odna manda
 gm gm gm
 xyi
+bom bmo
