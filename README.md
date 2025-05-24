@@ -15,3 +15,4 @@ one rto
 psss
 sex six up
 wifi
+chat gpt
