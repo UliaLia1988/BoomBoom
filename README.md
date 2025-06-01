@@ -23,3 +23,4 @@ A,B,C,D
 Face
 monad
 OMG
+monad testnet
