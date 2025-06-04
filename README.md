@@ -26,3 +26,4 @@ OMG
 monad testnet
 done
 drova
+ethereum
