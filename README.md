@@ -42,3 +42,4 @@ Big purple donut
 Get coin
 unrap
 Base of Best
+OpenSea
