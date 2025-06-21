@@ -43,3 +43,4 @@ Get coin
 unrap
 Base of Best
 OpenSea
+USDC
