@@ -44,3 +44,4 @@ unrap
 Base of Best
 OpenSea
 USDC
+ZK EWM
