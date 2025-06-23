@@ -45,3 +45,4 @@ Base of Best
 OpenSea
 USDC
 ZK EWM
+ice
