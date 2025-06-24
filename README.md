@@ -46,3 +46,4 @@ OpenSea
 USDC
 ZK EWM
 ice
+super
