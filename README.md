@@ -47,3 +47,4 @@ USDC
 ZK EWM
 ice
 super
+Fair
