@@ -48,3 +48,4 @@ ZK EWM
 ice
 super
 Fair
+oko
