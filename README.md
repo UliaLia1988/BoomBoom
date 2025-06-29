@@ -51,3 +51,4 @@ Fair
 oko
 windows
 good day?
+money
