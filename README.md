@@ -61,3 +61,4 @@ aqua
 GPT
 PvP
 mentos
+Contract
