@@ -74,3 +74,4 @@ AI OG
 onyx
 AI shit
 kaito
+red
