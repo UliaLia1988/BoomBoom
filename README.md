@@ -75,3 +75,4 @@ onyx
 AI shit
 kaito
 red
+open
