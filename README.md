@@ -76,3 +76,4 @@ AI shit
 kaito
 red
 open
+boom boom
