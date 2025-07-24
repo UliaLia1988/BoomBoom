@@ -77,3 +77,4 @@ kaito
 red
 open
 boom boom
+scam
